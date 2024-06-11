@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+# дз2 номер 6. Выполнили: Николаев Ян, Колесников Илья
+
 import zipfile
 import os
 import pandas as pd
